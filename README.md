@@ -18,7 +18,7 @@ through a validated contact form.
 4. Start the application: `npm run dev`
 
 ## Live Demo
-Add your live URL here after deployment.
+https://flavorkitchen01.netlify.app
 
 ## Deployment note
 On Render (Static Site), add a rewrite rule: `/*` -> `/index.html` (Rewrite).
